@@ -1,0 +1,8 @@
+1.You are consulting with a company about a new approach to authenticating users. You suggest there could be cost savings and better support for multifactor authentication (MFA) if your employees create accounts with a cloud provider. That allows the company's staff to focus on authorizations and privilege management. What type of service is the cloud vendor performing?
+2.What is the process of ensuring accounts are only created for valid users, only assigned the appropriate privileges, and that the account credentials are known only to the valid user?
+3.What is the policy that states users should be allocated the minimum sufficient permissions?
+4.What is a SOP?
+5.What type of organizational policies ensure that at least two people have oversight of a critical business process?
+6.Recently, attackers were able to compromise the account of a user whose employment had been terminated a week earlier. They used this account to access a network share and delete important files. What account vulnerability enabled this attack?
+7.For what type of account would interactive logon be disabled?
+8.What type of files most need to be audited to perform third-party credential management?
