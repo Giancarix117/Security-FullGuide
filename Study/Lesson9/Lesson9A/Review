@@ -1,0 +1,5 @@
+1. A recent security evaluation concluded that your company's network design is too consolidated. Hosts with wildly different functions and purposes are grouped together on the same logical area of the network. In the past, this has enabled attackers to easily compromise large swaths of network hosts. What technique(s) do you suggest will improve the security of the network's design, and why?
+2.You are discussing a redesign of network architecture with a client, and they want to know what the difference between an extranet and Internet is. How can you explain it?
+3.Why is subnetting useful in secure network design?
+4.How can an enterprise DMZ be implemented?
+5.What type of network requires the design to account for east-west traffic?
