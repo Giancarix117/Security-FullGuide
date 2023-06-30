@@ -1,0 +1,5 @@
+1.What is the purpose of SIEM?
+2.What is the difference between a sensor and a collector, in the context of SIEM?
+3.Does Syslog perform all the functions of a SIEM?
+4.You are writing a shell script to display the last 5 lines of a log file at /var/log/audit in a dashboard. What is the Linux command to do this?
+5.What is the principal use of grep in relation to log files?
