@@ -1,0 +1,6 @@
+1. True or false? A TLS VPN can only provide access to web-based network resources.
+2.What is Microsoft's TLS VPN solution?
+3.What IPSec mode would you use for data confidentiality on a private network?
+4.Which protocol is often used in conjunction with IPSec to provide a remote access client VPN with user authentication?
+5.What is the main advantage of IKEv2 over IKE v1?
+6.What bit of information confirms the identity of an SSH server to a client?
