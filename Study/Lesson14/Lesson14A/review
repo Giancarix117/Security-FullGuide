@@ -1,0 +1,7 @@
+1. You are reviewing access logs on a web server and notice repeated requests for URLs containing the strings %3C and %3E. Is this an event that should be investigated further, and why?
+2.You have been asked to monitor baseline API usage so that a rate limiter value can be set. What is the purpose of this?
+3.How does a replay attack work in the context of session hijacking?
+4.How does a clickjacking attack work?
+5.What is a persistent XSS attack?
+6.How might an attacker exploit a web application to perform a shell injection attack?
+7.You are improving back-end database security to ensure that requests deriving from front-end web servers are authenticated. What general class of attack is this designed to mitigate?
