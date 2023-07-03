@@ -1,0 +1,7 @@
+1. What type of programming practice defends against injection-style attacks, such as inserting SQL commands into a database application from a site search form?
+2.What coding practice provides specific mitigation against XSS?
+3.You are discussing execution and validation security for DOM scripting with the web team. A junior team member wants to know if this relates to client-side or server-side code. What is your response?
+4.Which response header provides protection against SSL stripping attacks?
+5.What vulnerabilities might default error messages reveal?
+6.What is an SDK and how does it affect secure development?
+7.What type of dynamic testing tool would you use to check input validation on a web form?
