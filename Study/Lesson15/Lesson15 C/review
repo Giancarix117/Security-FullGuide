@@ -1,0 +1,5 @@
+1.A company has been using a custom-developed client-server application for customer management, accessed from remote sites over a VPN. Rapid overseas growth has led to numerous complaints from employees that the system suffers many outages and cannot cope with the increased number of users and access by client devices such as smartphones. What type of architecture could produce a solution that is more scalable?
+2.You have been asked to produce a summary of pros and cons for the products Chef and Puppet. What type of virtualization or cloud computing technology do these support?
+3.True or false? Serverless means running computer code on embedded systems.
+4.A company's web services are suffering performance issues because updates keep failing to run on certain systems. What type of architecture could address this issue?
+5.What is SDV?
