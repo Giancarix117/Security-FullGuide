@@ -1,0 +1,4 @@
+1. You must recover the contents of the ARP cache as vital evidence of a man-in-the-middle attack. Should you shut down the PC and image the hard drive to preserve it?
+2.Which command line tool allows image creation from disk media on any Linux host?
+3.True or false? To ensure evidence integrity, you must make a hash of the media before making an image.
+4.What type of forensic data is recovered using a carving tool?
