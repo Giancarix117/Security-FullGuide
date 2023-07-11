@@ -13,3 +13,5 @@ go over social engineering differences
 critical systems vs mission essential functions
 review policies such as sox, glba, ferpa
 port 636?
+netflow
+review networking devices such as utms, edm, ngfw, nids, nips
