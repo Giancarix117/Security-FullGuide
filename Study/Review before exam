@@ -16,3 +16,4 @@ port 636?
 netflow
 review networking devices such as utms, edm, ngfw, nids, nips
 review most popular symetric and asymetric algos
+rto vs rpo
